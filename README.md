@@ -27,3 +27,4 @@ Create the metrics according to the metrics list. Create a dashboard according t
   was getting only 29% of the orders on time which was a serious concern and stakeholders need to address about production and delivery estimate of orders.
 * 16,491 Products out of 57,096 products were delayed than the agreed delivery date and 14,982 Orders out of 31,729 were not delivered in full.
 * Highest number of orders were received from Ahmedabad city (11,061) and lowest by Surat (9,696).
+* Late deliveries and partial delivery of orders is a serious concern for any business and stakeholders need to address about supply, production and delivery estimate of orders in a more efficient manner.
